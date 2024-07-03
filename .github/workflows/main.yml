@@ -30,7 +30,8 @@ jobs:
          # The Wrangler command (along with any arguments) you wish to run. Multiple Wrangler commands can be run by separating each command with a newline. Defaults to `"deploy"`.
          # command: # optional
          # A string of environment variable names, separated by newlines. These will be bound to your Worker using the values of matching environment variables declared in `env` of this workflow.
-         vars: |
+         vars: 
+           |
            {
              "AllowHTML": 0,
              "EnableMainSite": 1,
