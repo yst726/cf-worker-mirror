@@ -2,7 +2,7 @@
 
 This is a Cloudflare Worker that mirrors to another HTTP connection.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Cnily03/cf-worker-mirror)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yst726/cf-worker-mirror)
 
 ## Supported sites
 
